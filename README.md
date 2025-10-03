@@ -1,5 +1,7 @@
 # Схемы доклада
 
+## [Презентация](https://docs.google.com/presentation/d/1mwUaHKpID5DJhvj4rqFkPsXDOkP6Z-rq_kUl-H6fY-w/edit?usp=sharing)
+
 ## http cache
 ![http cache](images/http_cache.png)
 
